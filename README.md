@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="600px" src="https://github.com/aurimas13/Calculator-program/blob/main/images/calculator.jpeg"/>
+  <img height="600px" src="https://github.com/aurimas13/Spotify-track-analysis/blob/main/images/Spotify-cartoon.jpg"/>
 </p>
 
 <p align="center" > <b>Spotify Track Analysis </b> </p>
