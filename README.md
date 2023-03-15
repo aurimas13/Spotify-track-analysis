@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="600px" src="https://github.com/aurimas13/Spotify-track-analysis/blob/main/images/spotify.png"/>
+  <img height="300px" src="https://github.com/aurimas13/Spotify-track-analysis/blob/main/images/spotify.png"/>
 </p>
 
 <p align="center" > <b>Spotify Track Analysis </b> </p>
